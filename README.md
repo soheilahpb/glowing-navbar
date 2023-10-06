@@ -1,5 +1,5 @@
 # glowing-navbar
-📌 - [Demo Project](https://soheilahpb.github.io/Neon-Button-trick/)
+📌 - [Demo Project](https://soheilahpb.github.io/glowing-navbar/))
 - <a href="https://fa.piliapp.com/emoji/list/?skin=1f3fb" class="active">👩🏻‍💻</a>Developed by soheila hasanpoor.
 - <a href="https://fa.piliapp.com/emoji/list/?skin=1f3fb" class="active">📅</a>Created : 2022-10-01.
 - <a title="Symbols" href="https://fa.piliapp.com/emoji/list/?skin=1f3fb#symbols">✅</a> Technologies Used : Html , css , sass , flex.
